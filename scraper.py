@@ -1,7 +1,6 @@
 from selenium import webdriver
 from lxml import html
 from functools import total_ordering
-import requests
 import sys
 
 #Home object, with values for room type, property type,  listing name, and price
